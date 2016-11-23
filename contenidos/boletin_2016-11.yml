@@ -1,6 +1,6 @@
 --- 
 titulo: ATAM / Boletín Noviembre
-banner: http://extension.atamvirtual.com.ar/assets/headers2016/HEADER_NOVIEMBRE.png
+banner: http://extension.atamvirtual.com.ar/assets/logos/2016-mm-logo1-rgb.gif
 pie: ""
 secciones: 
   -
@@ -24,11 +24,15 @@ secciones:
           En esta primera etapa – que comenzó el 24 de octubre - se proyectan obras de Andrei Tarkovski y junto a diferentes oradores se reflexiona sobre los textos del cineasta ruso, el cine expandido y las prácticas multimediales.
         
           Obras a proyectarse: 
+
           Lunes 28.11: La infancia de Iván
+
           Lunes 5.12: Stalker
         
           Sede Artes Multimediales – Aula Magna (109)
+
           Av. Don Pedro de Mendoza 679, CABA
+
           Entrada libre y gratuita.
   -  
     titulo: Extensión
@@ -44,7 +48,9 @@ secciones:
         contenido: |
           El Área de Artes Multimediales ofrece cursos de extensión virtuales que pueden ser tomados en cualquier momento y desde cualquier computadora. Cuentan con un seguimiento minucioso durante su desarrollo, que incluye asesoramiento, asistencia y orientación permanente; y ofrece durante su cursada: foros de intercambio entre estudiantes y docentes, video-clases, ejercicios, evaluaciones y una amplia bibliografía digital. 
           Se entregan certificados oficiales de la Universidad Nacional de las Artes y las inscripciones se encuentran abiertas hasta diciembre del 2016.
+
           Cursos:
+
           Introducción a Arduino
           http://multimedia.una.edu.ar/extension/cursos/3038-introduccion-a-arduino
     
@@ -66,15 +72,23 @@ secciones:
           En estas obras se explorará la relación entre el arte, la ciencia y la tecnología a lo largo de diversas experimentaciones poéticas y estéticas. Los trabajos intentan indagar los conflictos que interpelan a las diferentes aristas de las Artes Multimediales abordadas desde la práctica artística de la universidad. En sus características productivas, materiales, procesuales y conceptuales el arte y la tecnología interpelan directamente la forma en la cuál nuestra época siente y percibe el mundo.
     
           < Obras y artistas >
+
           Quifono / Andrés Cafarena 
+
           AUSTRALIS / Marcelo Pasarón
+
           Incierto y Sustento / Luciano Fritschy
+
           La imagen es el sonido / Federico Barabino
+
           La voz de la mujer / Paula Coton - Natalia Monserrat
+
           Los Muertos somos nosotros / Lucas Jara – Manuel Reyes – Pablo Varela / Performance audiovisual con la colaboración de La Paternal Espacio Proyecto.
     
           Centro Cultural Recoleta: Junin 1930, CABA
+
           Entrada libre y gratuita
+
           Inauguración: 29 de noviembre a las 18:00 hs.
     
       -
@@ -96,7 +110,7 @@ secciones:
       -
         titulo: Repositorio Oficial en Github 
         contenido: |
-          En el siguiente enlace se encuentra el repositorio official del laboratorio: [github.com/LABSL-ATAM](https://www.github.com/LABSL-ATAM).
+          En el siguiente enlace se encuentra el repositorio oficial del laboratorio: [github.com/LABSL-ATAM](https://www.github.com/LABSL-ATAM).
 
           La mayoria de los proyectos en curso del laboratorio están ahí.
         link: https://labsl.multimediales.com.ar/Repositorio_Oficial_en_Github_.html
